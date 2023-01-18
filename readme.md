@@ -109,7 +109,7 @@ _changelog.stream is a private project open source project and not affiliated wi
 [stars-url]: https://github.com/srcmkr/changelog.stream/stargazers
 [issues-shield]: https://img.shields.io/github/issues/srcmkr/changelog.stream.svg?style=for-the-badge
 [issues-url]: https://github.com/srcmkr/changelog.stream/issues
-[license-shield]: https://img.shields.io/github/license/srcmkr/changelog.stream.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/srcmkr/changelog.stream?style=for-the-badge
 [license-url]: https://github.com/srcmkr/changelog.stream/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/srcmkr/
