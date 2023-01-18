@@ -98,7 +98,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-_changelog.stream is a private project open source project and not affiliated with FreshDesk or FreshWorks Inc. in any way._
+_changelog.stream is a private open source project and not affiliated with FreshDesk or FreshWorks Inc. in any way._
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/srcmkr/changelog.stream.svg?style=for-the-badge
