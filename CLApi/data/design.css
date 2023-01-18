@@ -1,0 +1,46 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+body {font-family: Inter;}
+
+.version {
+    background-color: #CE93D8;
+    color: #2C3E50;
+    padding: 5px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.versionsection {
+    margin-bottom: 4rem;
+}
+
+.date {
+    color: #2C3E50;
+}
+
+.table {
+    width: 100%;
+    padding-left: 100px;
+}
+
+.table tr {
+    line-height: 32px;
+}
+
+.type {
+    color: #000;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.verbesserung {
+    background-color: #90CAF9;
+}
+
+.bug {
+    background-color: #FFAB91;
+}
+
+.tr-type {
+    width: 150px;
+}
